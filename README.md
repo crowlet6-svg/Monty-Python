@@ -49,3 +49,7 @@ Rscript Statistics.R
 ```
 
 The script prints the simulated win rates for staying and switching, then displays a bar chart. The simulation count can be changed by editing the `N` value near the top of `Statistics.R`.
+
+
+
+DISCLAIMER: For ease of reading for both parties, I've used AI to create this readme and also explain how to use the "random" and "ggplot2" libraries from main and Statistics respectively. All other code is created and tested by me.
