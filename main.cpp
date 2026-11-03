@@ -51,7 +51,7 @@ int main() {
     std::cin >> finalAns;
 
     if(finalAns == "stay"){
-        if(doors[choice] == "car"){
+        if(doors[chosenDoor] == "car"){
             std::cout << "YOU WIN WOOOOOOOOOOOO" << std::endl;
         }else{
             std::cout << "sorry bub, you lost  tsk tsk tsk" << std::endl;
