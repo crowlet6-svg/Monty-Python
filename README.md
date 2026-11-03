@@ -2,9 +2,11 @@
 
 This repository is set up for a single C++ program implemented in `main.cpp`.
 
+There also exists a .R file which displays statistics.
+
 ## What it does
 
-`main.cpp` contains the full program logic. Once you implement it, the build creates a single executable named `main`.
+`main.cpp` contains the full program logic for the game. the build creates a single executable named `main`.
 
 ## Build and run
 
@@ -25,3 +27,5 @@ This repository is set up for a single C++ program implemented in `main.cpp`.
    ```bash
    make clean
    ```
+
+   
