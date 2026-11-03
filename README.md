@@ -48,6 +48,8 @@ Run the script from the repository root:
 Rscript Statistics.R
 ```
 
+In RStudio, press `Ctrl+Shift+Enter` to run the entire script.
+
 The script prints the simulated win rates for staying and switching, then displays a bar chart. The simulation count can be changed by editing the `N` value near the top of `Statistics.R`.
 
 
